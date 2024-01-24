@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/red-hat/static/css/main.f96f07a4.css",
+    "main.js": "/red-hat/static/js/main.1ff6e618.js",
+    "index.html": "/red-hat/index.html",
+    "main.f96f07a4.css.map": "/red-hat/static/css/main.f96f07a4.css.map",
+    "main.1ff6e618.js.map": "/red-hat/static/js/main.1ff6e618.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f96f07a4.css",
+    "static/js/main.1ff6e618.js"
+  ]
+}
